@@ -17,15 +17,6 @@ TD Bank receives messy customer, loan, and transaction data from multiple system
 - Delta Lake
 - Medallion Architecture
 
-## Folder Structure
-Azure-Data-Engineering-Bank-ETL/
-├── datasets/                  # Raw sample CSVs
-├── notebooks/
-│   └── banking_etl_pipeline.py # Main PySpark ETL
-├── sql/                       # Validation queries
-├── screenshots/               # Pipeline screenshots
-└── README.md
-
 
 ## Data Layers
 - **Landing**: Raw messy data
