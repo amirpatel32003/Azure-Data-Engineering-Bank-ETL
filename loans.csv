@@ -1,0 +1,10 @@
+LoanID,CustomerID,LoanAmount,InterestRate,LoanType,Status,ApprovalDate,Default
+L001,101,250000,3.5,Mortgage,Approved,2023-01-15,false
+L002,102,150000,4.2,Personal,Approved,2023-02-20,false
+L003,101,50000,5.8,Auto,Pending,2023-03-10,
+L004,103,300000,3.8,Mortgage,Approved,2023-04-05,false
+L005,104,80000,6.5,Personal,Rejected,2023-05-12,true
+L001,105,100000,4.0,Auto,Approved,2023-06-18,false
+L006,102,200000,3.9,Mortgage,Approved,2023-07-22,false
+L007,106,120000,5.5,Personal,Approved,2023-08-30,false
+L008,101,75000,4.8,Auto,Defaulted,2023-09-05,true

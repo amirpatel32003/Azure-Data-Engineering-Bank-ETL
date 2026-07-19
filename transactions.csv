@@ -1,0 +1,11 @@
+TransactionID,CustomerID,Merchant,Amount,TransactionDate,Category
+T001,101,Amazon,45.67,2023-01-20,Shopping
+T002,102,TimHortons,12.50,2023-02-15,Food
+T003,101,BestBuy,299.99,2023-03-05,Electronics
+T004,103,GasStation,-50.00,2023-04-10,Travel
+T005,104,UnknownMerchant,150.75,2023-05-22,Entertainment
+T006,101,Superstore,89.99,2023-06-10,Groceries
+T001,105,Netflix,15.99,2023-07-01,Subscriptions
+T007,102,RBC,500.00,2023-08-12,Banking
+T008,106,Shoppers,22.45,2023-09-18,Shopping
+T009,101,Amazon,120.50,2023-10-05,Shopping

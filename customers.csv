@@ -1,0 +1,10 @@
+CustomerID,FirstName,LastName,Province,CreditScore,Income,EmploymentStatus,Age
+101,John,Doe,ON,720,75000,Employed,35
+102,Jane,Smith,QC,680,62000,Employed,28
+NULL,Bob,Johnson,AB,750,80000,Unemployed,45
+101,Alice,Brown,BC,810,95000,Employed,32
+103,Charlie,Wilson,ON,590,45000,Employed,22
+104,,Davis,MB,720,70000,Self-Employed,50
+105,Eve,Clark,ON,850,120000,Employed,19
+106,Frank,Miller,SK,650,55000,Employed,40
+102,Sarah,Lee,ON,700,68000,Employed,29
